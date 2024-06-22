@@ -1,4 +1,16 @@
 *LeTsSaYHeLlOtOwOrLd*
 
-![image](https://github.com/refiaa/Hello_World/assets/112306763/c7910b30-cefb-4470-9de8-a44ce2d5317b)
-
+```sh
+Interactive Elixir (1.17.1) - press Ctrl+C to exit (type h() ENTER for help)
+iex(1)> HelloWorld.run()                                                                                                                                                                                                      
+Intermediate result:
+{
+  "data": "Hello World!",
+  "hash": "4E1FB4B9A■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■",
+  "encrypted": "2+V5KZ17mptNwZ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■Q==",
+  "salt": "A78117F3■■■■■■■■■■■■■■■■■■■■■■■■"
+}
+Hello World!
+:ok
+iex(2)>
+```
